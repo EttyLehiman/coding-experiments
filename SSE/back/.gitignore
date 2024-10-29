@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# תיקיות build ו-dist
+build/
+dist/
+
+# קבצים זמניים
+*.log
+.DS_Store
+
+# סביבות עבודה
+.env
